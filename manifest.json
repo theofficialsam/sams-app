@@ -1,0 +1,24 @@
+{
+  "name": "S.A.M.S — Scholastic Attendance Management System",
+  "short_name": "S.A.M.S",
+  "description": "Offline-first attendance management for schools and colleges.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0A0A0C",
+  "theme_color": "#4EAF91",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
